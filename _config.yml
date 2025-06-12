@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Raghav Kaushik Ravi"
   pronouns         : # example: "she/her"  
   bio              : "Interested in ML and NLP research. Eager to work on challenges problems!"
   location         : "India"
