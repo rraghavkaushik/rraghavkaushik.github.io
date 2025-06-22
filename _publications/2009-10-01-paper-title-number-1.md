@@ -7,8 +7,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '
 date: 2025-05-16
 venue: 'arXiv preprint arXiv:2506.13901'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/abs/2506.13901)'
+slidesurl: ''
+paperurl: '[https://arxiv.org/abs/2506.13901](https://arxiv.org/abs/2506.13901)'
 bibtexurl: ''
 citation: 'arXiv:2506.13901'
 ---
