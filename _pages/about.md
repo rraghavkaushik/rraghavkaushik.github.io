@@ -12,6 +12,7 @@ I have worked with the Indian Institute of Science (IISc), IIT Patna, University
 My research areas were LLM Alignment, Reasoning and Trustworthiness. 
 
 Currently, exploring mechanistic Interpretability... opening up the black box, one neuron at a time.
+Breaking down complex architectures and rebuilding them from scratch is my idea of a good time :)
 
 Always up for a good research paper or a bad AI pun!
 
