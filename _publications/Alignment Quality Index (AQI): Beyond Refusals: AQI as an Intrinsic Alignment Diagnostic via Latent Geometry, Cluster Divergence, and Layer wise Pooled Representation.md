@@ -6,7 +6,7 @@ excerpt: "Alignment is no longer a luxury, it is a necessity. As large language 
 Find the pre-print [here](https://arxiv.org/pdf/2506.13901)"
 date: 2025-05-16
 venue: 'arXiv preprint arXiv:2506.13901'
-paperurl: '[https://arxiv.org/abs/2506.13901](https://arxiv.org/abs/2506.13901)'
+paperurl: 'https://arxiv.org/abs/2506.13901'
 citation: 'arXiv:2506.13901'
 ---
 
