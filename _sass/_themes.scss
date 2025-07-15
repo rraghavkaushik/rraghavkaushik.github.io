@@ -39,8 +39,8 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : 'Lato', 'Segoe UI', 'Roboto', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+$header-font-family         : 'Lato', 'Segoe UI', 'Roboto', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
 $caption-font-family        : $serif;
 
 /* ==========================================================================
@@ -102,4 +102,13 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+
+// Modern Academic Theme Additions
+$academic-blue: #2a4d69;
+$academic-light-blue: #4b86b4;
+$academic-accent: #63ace5;
+$academic-gray: #f4f4f9;
+$academic-card-bg: #ffffff;
+$academic-card-shadow: 0 2px 8px rgba(42, 77, 105, 0.08);
+$academic-border-radius: 8px;
    

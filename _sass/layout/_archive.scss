@@ -84,6 +84,11 @@
   }
 }
 
+.archive__item {
+  @extend .card;
+  margin-bottom: 2em;
+}
+
 
 /*
    List view

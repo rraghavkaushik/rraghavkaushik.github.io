@@ -12,6 +12,11 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  background: var(--card-bg-color);
+  box-shadow: var(--card-shadow);
+  border-radius: var(--card-border-radius);
+  font-family: $global-font-family;
+  padding: 2em 1.5em;
 
   @media (orientation: portrait) {
     margin-top: 1em;
@@ -253,11 +258,11 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
-    text-decoration: none;
-
-    &:hover {
+    color: var(--global-link-color);
+    text-decoration: underline;
+    transition: color 0.2s;
+    &:hover, &:focus {
+      color: var(--global-link-color-hover);
       text-decoration: underline;
     }
   }
